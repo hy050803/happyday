@@ -49,8 +49,13 @@ body {
 }
 
 .two {
-  font-size: 3rem;
+  font-size: 1.2rem;
   font-weight: bolder;
+}
+
+.eleven {
+    font-size: 3rem;
+    font-weight: bolder;
 }
 
 .three {

@@ -110,7 +110,7 @@ const animationTimeline = () => {
       "+=2.5"
     )
     .to(
-      ".two",
+      ".eleven",
       0.7,
       {
         opacity: 0,
