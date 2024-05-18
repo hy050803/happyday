@@ -191,7 +191,8 @@ const animationTimeline = () => {
       0.7,
       {
         rotation: 90,
-        x: 8
+        x: 8,
+        color: "#FF8C00"
       },
       "+=0.4"
     )
